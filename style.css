@@ -1,0 +1,17 @@
+p{
+font-size: 20px;
+color: rgb(255, 0, 0);
+}
+span{
+color: rgb(124, 34, 34);
+}
+
+
+
+.greentext{
+    color: green;
+}
+
+#pinktext{
+    color: pink;
+}

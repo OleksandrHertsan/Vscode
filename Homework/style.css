@@ -1,0 +1,45 @@
+img{
+    width: 400px;
+    height: 300px;
+    
+}
+.block1 p{
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+}
+.block1{
+    width: 1920px;
+    height: 400px;
+    background-color: rgb(4, 119, 252);
+    border: 1px solid black;
+    margin: 20px 0px;
+}
+.block2{
+    width: 1920px;
+    height: 400px;
+    background-color: rgb(39, 174, 96);
+    border: 1px solid black;
+    margin: 20px 0px;
+}
+.block3{
+    width: 1920px;
+    height: 400px;
+    background-color: rgba(104, 0, 104, 0.849);
+    border: 1px solid black;
+    margin: 20px 0px;
+}
+.box{
+    text-align: center;
+}
+.box2{
+    height: 40px;
+    width: 1920px;
+    border: 1px solid black;
+    text-align: center;
+}
+.box2 img{
+    width: 30px;
+    height: 30px;
+    margin: 5px;
+}
+   

@@ -1,0 +1,23 @@
+table, tr, td, th{
+    border-collapse: collapse;
+    border: 1px solid black;
+}
+th{
+    background-color: palevioletred;
+    color: white;
+}
+table{
+height: 300px;
+width: 500px;
+}
+td{
+    text-align: center;
+}
+.box{
+    background-color: rgba(179, 146, 255, 0.692);
+    color: white;
+}
+.box2{
+    background-color: rgb(41, 1, 78);
+    color: white;
+}

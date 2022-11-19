@@ -5,7 +5,7 @@ table, tr, td, th{
     border-collapse: collapse;
     border: 1px solid black;
 }
-/*tr:nth-child(4n+2){
+tr:nth-child(4n+2){
     background-color: red;
 }
 tr:nth-child(4n+3){

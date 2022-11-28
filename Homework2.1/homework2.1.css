@@ -1,0 +1,15 @@
+.box{
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-end;
+    background-position: 50% 100%;
+}
+
+.imgdiv{
+    width: 800px;
+    height: 500px;
+    background-image: url(https://cdn.pixabay.com/photo/2015/07/09/19/32/dog-838281__480.jpg);
+    background-size: contain;
+background-position: 50% 100%;
+background-repeat: no-repeat;
+}

@@ -81,6 +81,4 @@ for(let num = arr; num >= 15; num++){
     if(arr[num] >= 15){
         
     }
-    
 }
-console.log(arr);

@@ -1,0 +1,12 @@
+.large{
+    width: 800px;
+    height: 531px;
+    border: 2px solid black;
+    
+}
+
+.photo{
+    width: 400px;
+    height: 300px;
+    border: 2px solid black;
+}
